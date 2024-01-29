@@ -13,9 +13,9 @@ Filter the value that corresponds to each key.
 # Observation:  
 The program detects the following conditions:  
 
- Only numbers that are within the values can be entered.  
- Characters other than numbers cannot be used.  
- When comparing 2 keys, the same key cannot be inserted twice to carry out the comparisons.  
+ - Only numbers that are within the values can be entered.  
+ - Characters other than numbers cannot be used.  
+ - When comparing 2 keys, the same key cannot be inserted twice to carry out the comparisons.  
  
  If any of these conditions are detected, the user will be notified. The program only continues execution after all data entered is valid.
  
