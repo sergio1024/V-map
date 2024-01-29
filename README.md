@@ -1,6 +1,6 @@
 # V-map
 
-This solution implements automatically alguns values of each key value pair in a data structure.  
+This solution implements automatically some values to each key value pair in a data structure.  
 The key values range from 0 to 25, each key has the value of a letter of the alphabet.  
 
 # In this program with these values we can:  
