@@ -5,10 +5,10 @@ The key values range from 0 to 25, each key has the value of a letter of the alp
 
 # In this program with these values we can:  
 
-View all the values.  
-Verify that all values are different.  
-Make comparisons between values.  
-Filter the value that corresponds to each key.  
+  - View all the values.  
+  - Verify that all values are different.  
+  - Make comparisons between values.  
+  - Filter the value that corresponds to each key.  
 
 # Observation:  
 The program detects the following conditions:  
